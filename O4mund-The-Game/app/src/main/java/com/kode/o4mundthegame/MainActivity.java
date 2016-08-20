@@ -1,7 +1,7 @@
 package com.kode.o4mundthegame;
 
-import android.support.v7.app.AppCompatActivity;
-import android.os.Bundle;
+        import android.support.v7.app.AppCompatActivity;
+        import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
     int l;
